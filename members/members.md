@@ -319,3 +319,4 @@
 | 柯诗涵 | ysss-ee | 2025 | 完了完了完了完了何意味啊 | 部员 |
 | 李昊然 | chtholly_daisuki | 2025 | 111 | 部员 |
 | 赵延恺 | zestfulyk | 2025 | 纯前端萌新 | 部员 |
+| 吴旭哲 | EliadOArias | 2025 | I want to play minecraft! | 部员 |
