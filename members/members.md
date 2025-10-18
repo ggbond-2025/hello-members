@@ -329,3 +329,4 @@
 | 金沐阳   | MucheXD     | 2025 | 这下实名制上 Github 了 😰                        |            |
 | 高语     | leon996     | 2025 | null                                             |            ||
 | 杨子杰 | Fridayssheep | 2025 | 废物后端&VOCALOID术曲人&linuxuser | 部员 |
+| 陈奕圣 | v185v | 2025 | 群猫猫虫 | 部员 |
