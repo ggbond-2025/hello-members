@@ -327,4 +327,5 @@
 | 邱子皓 | A-Hydrogen-ion | 2025 |  拜见各位大佬喵  | 部员 |
 | 陈思楠 | fenghecsn | 2025 | 前端彩笔 | 部员 |
 | 金沐阳   | MucheXD     | 2025 | 这下实名制上 Github 了 😰                        |            |
-| 高语     | leon996     | 2025 | null                                             |            |
+| 高语     | leon996     | 2025 | null                                             |            ||
+| 杨子杰 | Fridayssheep | 2025 | 废物后端&VOCALOID术曲人&linuxuser | 部员 |
