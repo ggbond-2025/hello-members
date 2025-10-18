@@ -322,3 +322,4 @@
 | 赵延恺 | zestfulyk | 2025 | 纯前端萌新 | 部员 |
 | 吴旭哲 | EliadOArias | 2025 | I want to play minecraft! | 部员 |
 | 陈康乐 | xiaoPhaif4a2 | 2025 | 大家好我是猫雷，晚上好 | 产研部干事 |
+| 邓继雄 | newfish1 | 2025 |  纯纯一bot  | 产研部干事 |
