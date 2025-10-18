@@ -304,6 +304,7 @@
 | ※ 陈曦 | chenxi34 | 2024 |  沉汐rp++喵 | 产研部副部 |
 | ※ 杨翼逍 | DumbDaiDai | 2024 |  🤤🧂部🐔🌳最🥬前端，编🐔🏹⬅️室唯1⃣️文盲 | 产研部副部 |
 | ※ 毛佳俊 | MangoGovo | 2024 |  鸡蛋鸡蛋  | 产研部副部 |
+| ※ 王昌翔 | ZheYi101 | 2024 |  关注折乙喵 关注折乙谢谢喵  | 产研部副部 |
 | 蔡东廷 | BURIBURI-ZAEMON1 | 2025 |  HEAVEN'S DOOR!  | 部员 |
 | 喻子洋 | ATCrock | 2025 | +→ | 部员 |
 | 周雅婷 | sqb550 | 2025 | 十且八 八且十 | 部员 |
@@ -320,3 +321,4 @@
 | 李昊然 | chtholly_daisuki | 2025 | 111 | 部员 |
 | 赵延恺 | zestfulyk | 2025 | 纯前端萌新 | 部员 |
 | 吴旭哲 | EliadOArias | 2025 | I want to play minecraft! | 部员 |
+| 陈康乐 | xiaoPhaif4a2 | 2025 | 大家好我是猫雷，晚上好 | 产研部干事 |
